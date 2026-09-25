@@ -34,7 +34,7 @@ public class Teste {
         Cliente clienteNovo = new Cliente(
             null, 
             cpfTeste, 
-            "Gabriel Mansour", 
+            "Gabriel de Campos", 
             "Rua das Flores", 
             "156-B", 
             "Jardim das Meninas", 
